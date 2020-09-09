@@ -61,6 +61,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
 * [IDE Toolkits](#ide-toolkits)
     * [Eclipse Toolkit](#eclipse-toolkit)
     * [Visual Studio Toolkit](#visual-studio-toolkit)
+    * JetBrains Toolkit (#jetbrains-toolkit)
 * [Open Source Repos](#open-source-repos)
     * [API Gateway](#api-gateway)
     * [CLI](#cli)
@@ -373,6 +374,12 @@ Related Repos:
 * [Install](http://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi)
 * [Docs](https://aws.amazon.com/documentation/aws-toolkit-visual-studio/)
 * [Learn More](https://aws.amazon.com/visualstudio/)
+
+### JetBrains Toolkit
+
+* [Install](https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/setup-toolkit.html)
+* [Docs](https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/welcome.html)
+* [Learn More](https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/welcome.html#welcome-)
 
 ## Open Source Repos
 
